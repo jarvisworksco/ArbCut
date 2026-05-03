@@ -877,6 +877,15 @@ section {
   color: rgba(232, 228, 218, 0.3);
 }
 
+.site-footer__credit a {
+  color: rgba(232, 228, 218, 0.3);
+  text-decoration: none;
+}
+
+.site-footer__credit a:hover {
+  color: rgba(232, 228, 218, 0.6);
+}
+
 
 /* ============================================================
    M2 — SHARED SECTION HEADERS
